@@ -1,4 +1,4 @@
-#English Version
+# English Version
 # TwitchEmojiDownloader <img src="https://img.shields.io/static/v1?label=code&message=Node.js&color=green" alt="">
 Twitch Emoji Downloader is a program to download emojis for Twitch streamers.
 
