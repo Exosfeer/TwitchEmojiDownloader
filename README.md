@@ -1,3 +1,12 @@
+#English Version
+# TwitchEmojiDownloader <img src="https://img.shields.io/static/v1?label=code&message=Node.js&color=green" alt="">
+Twitch Emoji Downloader is a program to download emojis for Twitch streamers.
+
+### How to install
+**Git** <code>git clone https://github.com/Kwabang/TwitchEmojiDownloader.git</code><br>
+**releases** <code>https://github.com/Kwabang/TwitchEmojiDownloader/releases</code>
+
+#Original Version Below
 # TwitchEmojiDownloader <img src="https://img.shields.io/static/v1?label=code&message=Node.js&color=green" alt="">
 
 Twitch Emoji Downloader는 트위치 스트리머의 이모티콘을 다운로드하는 프로그램입니다.<br>
